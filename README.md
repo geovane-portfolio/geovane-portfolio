@@ -1,8 +1,8 @@
 ## Olá! Eu sou Geovane de Sá Ferreira
  <div>
   <a href="https://github.com/geovane-portfolio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovane-portfolio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovane-portfolio&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=geovane-portfolio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovane-portfolio&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br>
